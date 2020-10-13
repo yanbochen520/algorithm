@@ -50,10 +50,9 @@ public class MaxAndMin {
         int min = Integer.MAX_VALUE;
         for (int i = 0; i < arr.length; i++) {
             max = Math.max(max, arr[i]);
-        }
-        for (int i = 0; i < arr.length; i++) {
             min = Math.min(arr[i], min);
         }
+
         return new int[]{min, max};
     }
 
