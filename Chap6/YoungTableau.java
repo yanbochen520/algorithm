@@ -1,5 +1,5 @@
-package com.ums.algorithm.Chap6;
-import com.ums.algorithm.Chap2.SimpleUtil;
+package  Chap6;
+import  Chap2.SimpleUtil;
 
 
 /**

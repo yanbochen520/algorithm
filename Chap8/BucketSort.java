@@ -1,4 +1,4 @@
-package com.ums.algorithm.Chap8;
+package  Chap8;
 
 import java.util.ArrayList;
 import java.util.Collections;

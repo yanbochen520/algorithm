@@ -1,7 +1,7 @@
-package com.ums.algorithm.Chap12;
+package  Chap12;
 
-import static com.ums.algorithm.Chap12.TreeTravelRec.setHeightOfEachNode;
-import static com.ums.algorithm.Chap12.TreeTravelRec.setSizeOfEachNode;
+import static  Chap12.TreeTravelRec.setHeightOfEachNode;
+import static  Chap12.TreeTravelRec.setSizeOfEachNode;
 
 /**
  * Created with IntelliJ IDEA.

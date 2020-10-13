@@ -1,8 +1,8 @@
-package com.ums.algorithm.Chap12;
+package  Chap12;
 
 import java.util.Stack;
 
-import static com.ums.algorithm.Chap12.TreeUtil.*;
+import static  Chap12.TreeUtil.*;
 
 /**
  * Created with IntelliJ IDEA.

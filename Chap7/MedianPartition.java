@@ -1,7 +1,7 @@
-package com.ums.algorithm.Chap7;
+package  Chap7;
 
-import com.ums.algorithm.Chap2.SimpleUtil;
-import com.ums.algorithm.Chap5.RandomInteger;
+import  Chap2.SimpleUtil;
+import  Chap5.RandomInteger;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;

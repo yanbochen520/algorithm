@@ -1,9 +1,9 @@
-package com.ums.algorithm.Chap12;
+package  Chap12;
 
 import java.util.Stack;
 
-import static com.ums.algorithm.Chap12.TreeUtil.generateSearchTree;
-import static com.ums.algorithm.Chap12.TreeUtil.hasRightChild;
+import static  Chap12.TreeUtil.generateSearchTree;
+import static  Chap12.TreeUtil.hasRightChild;
 
 /**
  * Created with IntelliJ IDEA.

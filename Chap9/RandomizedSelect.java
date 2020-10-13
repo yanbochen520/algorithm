@@ -1,16 +1,16 @@
-package com.ums.algorithm.Chap9;
+package  Chap9;
 
-import com.ums.algorithm.Chap2.SimpleUtil;
-import com.ums.algorithm.Chap5.RandomInteger;
-import com.ums.algorithm.Chap5.SearchMethod;
-import com.ums.algorithm.Chap7.QuickSort;
+import  Chap2.SimpleUtil;
+import  Chap5.RandomInteger;
+import  Chap5.SearchMethod;
+import  Chap7.QuickSort;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import static com.ums.algorithm.Chap7.MedianPartition.partition;
+import static  Chap7.MedianPartition.partition;
 
 /**
  * Created with IntelliJ IDEA.

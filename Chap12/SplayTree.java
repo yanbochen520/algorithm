@@ -1,8 +1,8 @@
-package com.ums.algorithm.Chap12;
-import static com.ums.algorithm.Chap12.SearchTree.*;
-import static com.ums.algorithm.Chap12.SplayTreeUtil.attachAsLC;
-import static com.ums.algorithm.Chap12.SplayTreeUtil.attachAsRC;
-import static com.ums.algorithm.Chap12.TreeUtil.*;
+package  Chap12;
+import static  Chap12.SearchTree.*;
+import static  Chap12.SplayTreeUtil.attachAsLC;
+import static  Chap12.SplayTreeUtil.attachAsRC;
+import static  Chap12.TreeUtil.*;
 
 /**
  * Created with IntelliJ IDEA.

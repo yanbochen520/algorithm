@@ -1,6 +1,6 @@
-package com.ums.algorithm.Chap4;
+package  Chap4;
 
-import com.ums.algorithm.Chap2.SimpleUtil;
+import  Chap2.SimpleUtil;
 
 /**
  * Created with IntelliJ IDEA.

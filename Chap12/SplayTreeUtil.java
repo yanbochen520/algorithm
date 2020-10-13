@@ -1,6 +1,6 @@
-package com.ums.algorithm.Chap12;
+package  Chap12;
 
-import static com.ums.algorithm.Chap12.TreeUtil.setHeight;
+import static  Chap12.TreeUtil.setHeight;
 
 /**
  * Created with IntelliJ IDEA.

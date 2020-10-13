@@ -1,6 +1,6 @@
-package com.ums.algorithm.Chap6;
+package  Chap6;
 
-import com.ums.algorithm.Chap2.SimpleUtil;
+import  Chap2.SimpleUtil;
 
 import java.util.Arrays;
 

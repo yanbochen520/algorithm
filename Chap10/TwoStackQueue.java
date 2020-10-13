@@ -1,4 +1,4 @@
-package com.ums.algorithm.Chap10;
+package  Chap10;
 
 import java.util.Stack;
 

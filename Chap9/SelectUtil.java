@@ -1,4 +1,4 @@
-package com.ums.algorithm.Chap9;
+package  Chap9;
 
 import java.util.Arrays;
 

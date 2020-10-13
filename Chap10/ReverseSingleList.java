@@ -1,12 +1,12 @@
-package com.ums.algorithm.Chap10;
+package  Chap10;
 
-import com.ums.algorithm.Chap12.TreeNode;
+import  Chap12.TreeNode;
 import sun.awt.SunToolkit;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import static com.ums.algorithm.Chap12.TreeTravelRec.postOrderTravelRec;
+import static  Chap12.TreeTravelRec.postOrderTravelRec;
 
 /**
  * Created with IntelliJ IDEA.

@@ -1,4 +1,4 @@
-package com.ums.algorithm.Chap12;
+package  Chap12;
 
 /**
  * Created with IntelliJ IDEA.

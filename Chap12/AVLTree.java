@@ -1,7 +1,7 @@
-package com.ums.algorithm.Chap12;
+package  Chap12;
 
-import static com.ums.algorithm.Chap12.SearchTree.*;
-import static com.ums.algorithm.Chap12.TreeUtil.*;
+import static  Chap12.SearchTree.*;
+import static  Chap12.TreeUtil.*;
 
 /**
  * Created with IntelliJ IDEA.

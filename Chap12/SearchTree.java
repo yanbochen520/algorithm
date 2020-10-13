@@ -1,8 +1,8 @@
-package com.ums.algorithm.Chap12;
+package  Chap12;
 
 
-import static com.ums.algorithm.Chap12.TreeTravelRec.InOrderTravelRec;
-import static com.ums.algorithm.Chap12.TreeUtil.*;
+import static  Chap12.TreeTravelRec.InOrderTravelRec;
+import static  Chap12.TreeUtil.*;
 
 
 /**

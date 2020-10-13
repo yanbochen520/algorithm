@@ -1,4 +1,4 @@
-package com.ums.algorithm.Chap2;
+package  Chap2;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
